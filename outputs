@@ -1,1 +1,37 @@
+============================================================
+OPTIMAL EXECUTION & MARKET IMPACT SIMULATOR
+============================================================
 
+Initial Price      : 100.00
+Order Quantity     : 100,000
+Execution Horizon  : 1.00
+Time Steps         : 20
+Monte Carlo Paths  : 5000
+
+Strategy Results
+------------------------------------------------------------
+
+TWAP
+Mean Cost                : 52496075.82
+Cost Std                 : 625606.63
+Cost / Share             : 524.960758
+Implementation Shortfall : 52496075.82
+Cost (bps)               : 52496.0758
+
+Front-Loaded
+Mean Cost                : 53289934.99
+Cost Std                 : 496477.54
+Cost / Share             : 532.899350
+Implementation Shortfall : 53289934.99
+Cost (bps)               : 53289.9350
+
+Optimal
+Mean Cost                : 52502326.07
+Cost Std                 : 619602.76
+Cost / Share             : 525.023261
+Implementation Shortfall : 52502326.07
+Cost (bps)               : 52502.3261
+
+============================================================
+Experiment completed successfully.
+============================================================
