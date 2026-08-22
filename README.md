@@ -310,7 +310,8 @@ risk_aversion = 1.0
 horizon = 1.0
 steps = 20
 simulation_paths = 5000
-git clone https://github.com/YOUR_USERNAME/Optimal-Execution-And-Market-Impact-Simulator.git
+git clone:
+https://github.com/thirupathikannan-ai/Optimal-Execution-And-Market-Impact-Simulator-.git
 cd Optimal-Execution-And-Market-Impact-Simulator
 Create a virtual environment
 python -m venv .venv
